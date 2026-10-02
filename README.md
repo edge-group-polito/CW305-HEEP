@@ -112,4 +112,10 @@ To clean the build folder:
 make clean
 ```
 
-Afted this command is executed, it is needed to regenerate the microcontroller, compile the application and build the simulation environement.
+After this command is executed, it is needed to regenerate the microcontroller, compile the application and build the simulation environment.
+
+## Acknowledgements
+
+The core hardware IP for this project was originally developed by Lorenzo Capobianco as part of his thesis work.
+For further details regarding the architecture and implementation, please refer to the full thesis: [Open Hardware, Hidden Risks: Mitigating passive power side-channel leakage in RISC-V microcontrollers.](https://webthesis.biblio.polito.it/37613/?template=default)
+
